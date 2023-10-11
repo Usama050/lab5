@@ -28,3 +28,10 @@ Innitialization and applying:
 ```
 
 After apply in localhost:8000 you should see the nginx running.
+
+
+Destroying:
+
+``` sh
+ terraform destroy
+```
