@@ -9,3 +9,9 @@ For installation of terraform in windows follow the bellow instruction:
 * Unzip it and copy the floder and paste it in C drive.
 * After that go to edit environment and add the path.
 * To make sure terraform install in your system check the version in Powershell.
+
+## Version
+For getting the version of the terraform installed on the system use the command below:
+``` sh
+$ terraform --version
+```
