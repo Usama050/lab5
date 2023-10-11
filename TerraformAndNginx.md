@@ -45,6 +45,11 @@ Destroying:
 ## Practical Task
 **Terraform init**
 
-
 ![Alt text](terraform_init.png)
+
+**Teraform apply**
+![Alt text](terraform_apply_1.png)
+![Alt text](terraform_apply_2.png)
+![Alt text](terraform_apply_3.png)
+
 
