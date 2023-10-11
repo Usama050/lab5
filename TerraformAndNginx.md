@@ -52,4 +52,12 @@ Destroying:
 ![Alt text](terraform_apply_2.png)
 ![Alt text](terraform_apply_3.png)
 
+**Terraform Destory**
+![Alt text](terraform_destroy_1.png)
+![Alt text](terraform_destroy_2.png)
 
+**Docker output**
+![Alt text](terraform_docker.png)
+
+**Terraform Output and Query**
+![Alt text](terraform_output.png)
