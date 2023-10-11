@@ -35,3 +35,9 @@ Destroying:
 ``` sh
  terraform destroy
 ```
+
+## Observation
+1. Installation process is straightforward and well-documented.
+2. Terraform is available for various operating systems (Windows, macOS, Linux).
+3. The installation size is relatively small.
+4. No additional dependencies or prerequisites are needed for basic installation.
