@@ -44,4 +44,5 @@ Destroying:
 
 ## Practical Task
 **Terraform init**
+![Alt text] (terraform_init.png)
 
