@@ -15,3 +15,4 @@ For getting the version of the terraform installed on the system use the command
 ``` sh
  terraform --version
 ```
+![Alt text](terraform_version.png)
