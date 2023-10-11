@@ -46,5 +46,5 @@ Destroying:
 **Terraform init**
 
 
-![Alt text] (terraform_init.png)
+![Alt text](terraform_init.png)
 
