@@ -13,5 +13,5 @@ For installation of terraform in windows follow the bellow instruction:
 ## Version
 For getting the version of the terraform installed on the system use the command below:
 ``` sh
-$ terraform --version
+ terraform --version
 ```
