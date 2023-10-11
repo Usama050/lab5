@@ -16,3 +16,15 @@ For getting the version of the terraform installed on the system use the command
  terraform --version
 ```
 ![Alt text](terraform_version.png)
+
+## Commands
+After creating and configuring the project:
+
+Innitialization and applying:
+
+``` sh
+ terraform init
+ terraform apply
+```
+
+After apply in localhost:8000 you should see the nginx running.
